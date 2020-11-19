@@ -32,9 +32,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/cchendyc/androidIns/blob/main/ip017' width='' alt='Video Walkthrough' />
 
-<img src='https://github.com/cchendyc/androidIns/blob/main/ip018' width='' alt='Video Walkthrough' />
+<img src='https://github.com/cchendyc/androidIns/blob/main/ip017.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/cchendyc/androidIns/blob/main/ip018.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 
 # PART1
@@ -63,10 +64,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/cchendyc/androidIns/blob/main/ip013.gif
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://github.com/cchendyc/androidIns/blob/main/ip014.gif
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/cchendyc/androidIns/blob/main/ip013.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/cchendyc/androidIns/blob/main/ip014.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
