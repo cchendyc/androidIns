@@ -34,8 +34,7 @@ Here's a walkthrough of implemented user stories:
 
 
 <img src='https://github.com/cchendyc/androidIns/blob/main/ip017.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://github.com/cchendyc/androidIns/blob/main/ip018.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://github.com/cchendyc/androidIns/blob/main/ip018gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 # PART1
